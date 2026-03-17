@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Abrar</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Data+Analysis+Enthusiast;AI%2FML+Learner;Electronics+%26+Arduino&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
+</p>
+
 # 💫 About Me:
 
 🔭 **I’m currently working on**
